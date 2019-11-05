@@ -1,0 +1,35 @@
+.title-header {
+    background-color: pink;
+  }
+  
+  .essay-container {
+    background-color: lightgrey;
+  }
+  
+  .intro-parent {
+    background-color: cornflowerblue;
+  }
+  
+  .body-parent {
+    background-color: lightsalmon;
+  }
+  
+  .conclusion-parent {
+    background-color: darkseagreen;
+  }
+  
+  #intro-text {
+    color: white;
+  }
+  
+  #body-text {
+    color: grey;
+  }
+  
+  #conclusion-text {
+    color: darkblue;
+  }
+  
+  #emphasis {
+    color: red;
+  }
